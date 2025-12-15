@@ -1,0 +1,1 @@
+Fully responsive page made with semantic HTML, CSS Vanilla, using concepts like relative positioning absolute, Flexbox, Grid, Box Model, etc. The project also includes JavaScript logic for dynamic content updates, practicing array methods like find and map.
